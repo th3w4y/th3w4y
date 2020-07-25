@@ -1,8 +1,3 @@
-
-
-
-**th3w4y** 
-
 ### Hi there 👋
 
 - 🔭 I’m currently working on ...
